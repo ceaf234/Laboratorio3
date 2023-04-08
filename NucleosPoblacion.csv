@@ -1,4 +1,4 @@
-FID,OBJECTID,Texto,Poblacion,CodMun,Municipio,CodProvin,Provincia,X,Y
+FID,OBJECTID,Ciudad,Poblacion,CodMun,Municipio,CodProvin,Provincia,X,Y
 0,1,Agüimes,29431.0,35002,Agüimes,35,Las Palmas,-15.446012264,27.9005418852
 1,2,Antigua,10458.0,35003,Antigua,35,Las Palmas,-14.01330083,28.4189662242
 2,3,Arrecife,58156.0,35004,Arrecife,35,Las Palmas,-13.551451235,28.9606494152
